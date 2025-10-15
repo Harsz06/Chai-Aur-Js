@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/js.avif" alt="Chai Aur C++ Banner" width="800">
+</p>
+
 # ☕ Chai aur JavaScript : Practice & Concepts
 
 This repository follows along with **Hitesh Sir's "Chai aur JavaScript" series**, where I’m revisiting the core and advanced concepts of JavaScript not just to watch, but to **code, practice, and deeply understand** each topic.  
