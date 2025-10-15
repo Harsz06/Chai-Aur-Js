@@ -23,12 +23,37 @@ const bigNumber = 3778884568276236463n;
 const heros = ["shaktiman", "naagraj", "doga"];
 
 let myobj = {
-    name: "hitesh",
-    age: 22,
-}
+  name: "hitesh",
+  age: 22,
+};
 
-const myFunction = function(){
-    console.log("Hello World");
-}
+const myFunction = function () {
+  console.log("Hello World");
+};
 
 console.log(typeof anotherId);
+
+// +++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive): This gives copy, Heap (Non-Primitive): This is gives reference
+
+let myYoutubename = "hiteshchoudharydotcom";
+
+let anothername = myYoutubename;
+anothername = "chaiaurcode";
+
+console.log(myYoutubename);
+console.log(anothername);
+
+let userOne = {
+  email: "user@google.com",
+  upi: "user@ybl",
+};
+
+let userTwo = userOne;
+
+userTwo.email = "hitesh@google.com";
+
+console.log(userOne.email);
+console.log(userTwo.email);
+
