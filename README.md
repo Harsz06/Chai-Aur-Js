@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/js.avif" alt="Chai Aur C++ Banner" width="800">
+  <img src="assets/chai-aur-js.jpg" alt="Chai Aur C++ Banner" width="800">
 </p>
 
 # ☕ Chai aur JavaScript : Practice & Concepts
