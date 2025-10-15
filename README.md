@@ -20,15 +20,8 @@ The main goal of this repo is to:
 
 ---
 
-## What You’ll Find Here  
-- Concept-wise folders with example code.  
-- Notes and explanations for tricky topics.  
-- Practice problems and mini tasks to reinforce learning.  
-
----
-
 ## Why This Repo Exists  
-To **build strong JS intuition** — not just syntax.  
+To **build strong JS intuition** not just syntax.  
 Every line of code here is written to understand the *why* behind JavaScript behavior, not just the *how*.  
 
 ---
@@ -39,8 +32,7 @@ Huge thanks to him for simplifying JS in such an engaging way!
 
 ---
 
-## Connect With Me  
-If you’re also learning or exploring JavaScript, feel free to connect!  
+## Connect With Me   
 
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/guleria-harsh/)  
 - **X (Twitter):** [My Handle](https://x.com/harsz_06)  
