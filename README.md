@@ -1,6 +1,6 @@
-# ☕ Chai aur JavaScript — Practice & Concepts
+# ☕ Chai aur JavaScript : Practice & Concepts
 
-This repository follows along with **Hitesh Sir's "Chai aur JavaScript" series**, where I’m revisiting the core and advanced concepts of JavaScript — not just to watch, but to **code, practice, and deeply understand** each topic.  
+This repository follows along with **Hitesh Sir's "Chai aur JavaScript" series**, where I’m revisiting the core and advanced concepts of JavaScript not just to watch, but to **code, practice, and deeply understand** each topic.  
 
 ---
 
@@ -44,5 +44,5 @@ If you’re also learning or exploring JavaScript, feel free to connect!
 
 ---
 
-> *“Learning JavaScript is not about memorizing methods — it’s about understanding how the engine thinks.”*  
+> *“Learning JavaScript is not about memorizing methods it’s about understanding how the engine thinks.”*  
 > — Inspired by Hitesh Sir 
