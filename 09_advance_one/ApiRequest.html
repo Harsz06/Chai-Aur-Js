@@ -7,8 +7,10 @@
   </head>
   <body style="background-color: #212121; color: #fff"></body>
   <script>
+
     const requestUrl = "https://api.github.com/users/hiteshchoudhary";
     const xhr = new XMLHttpRequest();
+    xhr.open("GET", requestUrl);
     xhr.onreadystatechange = function () {
       console.log(xhr.readyState);
       if (xhr.readyState === 4) {
@@ -18,7 +20,7 @@
         console.log(data.avatar_url);
       }
     };
-    xhr.open("GET", requestUrl);
     xhr.send();
+    
   </script>
 </html>
